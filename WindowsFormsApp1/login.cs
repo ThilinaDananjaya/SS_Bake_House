@@ -14,8 +14,8 @@ namespace WindowsFormsApp1
 {
     public partial class login : Form
     {
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\rahulan\Desktop\off_Project\WindowsFormsApp1\Database1.mdf;Integrated Security=True");
-        
+        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=I:\Thilina Dananjaya\GitHub\SS_Bake_House\WindowsFormsApp1\Database1.mdf;Integrated Security=True");
+
         public login()
         {
             InitializeComponent();
